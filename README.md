@@ -20,9 +20,11 @@ The speed of these transactions gave my firm a competitive advantage early on. B
 
 * Baseline cumulative return plot that shows the actual returns vs. the strategy returns
 * SVC Model cumulative return plot that shows the actual returns vs. the strategy returns. Inputs are short_windows = 4, long_window = 100, DateOffset for training slice = 3 months.
-![[returns_actual_vs_strategy]](Images/svm_returns_actual_vs_strategy_1_1.PNG?raw=true)
+
+![[returns_actual_vs_strategy]](https://github.com/Nithy29/Algorithmic-Trading/blob/main/Images/svm_returns_actual_vs_strategy_1_1.png?raw=true)
 
 - Classification Report
+
 ![[Classification Report]](Images/SVM_Classification_Report_1_1.png?raw=true)
 
 
@@ -31,17 +33,21 @@ The speed of these transactions gave my firm a competitive advantage early on. B
 
 * SVC Model cumulative return plot that shows the actual returns vs. the strategy returns. 
   Inputs are short_windows = 8, long_window = 200, DateOffset for training slice = 6 months.
-![[returns_actual_vs_strategy_6_months]](Images/svm_returns_actual_vs_strategy_1_2.PNG?raw=true)
+  
+![[returns_actual_vs_strategy_6_months]](https://github.com/Nithy29/Algorithmic-Trading/blob/main/Images/svm_returns_actual_vs_strategy_1_2.png?raw=true)
 
 - Classification Report
+
 ![[Classification Report]](Images/SVM_Classification_Report_1_2.png?raw=true)
 
 
 * SVC Model cumulative return plot that shows the actual returns vs. the strategy returns. 
   Inputs are short_windows = 16, long_window = 400, DateOffset for training slice = 12 months.
- ![[returns_actual_vs_strategy_12_months]](Images/svm_returns_actual_vs_strategy_1_3.PNG?raw=true)
+  
+ ![[returns_actual_vs_strategy_12_months]](https://github.com/Nithy29/Algorithmic-Trading/blob/main/Images/svm_returns_actual_vs_strategy_1_3.png?raw=true)
 
 - Classification Report
+
 ![[Classification Report]](Images/SVM_Classification_Report_1_3.png?raw=true)
 
 
@@ -52,11 +58,11 @@ The speed of these transactions gave my firm a competitive advantage early on. B
 * LogisticRegression Model cumulative return plot that shows the actual returns vs. the strategy returns. 
   Inputs are short_windows = 4, long_window = 100, DateOffset for training slice = 3 months.
 
-![[returns_actual_vs_strategy_LogisticRegression]](Images/LogisticRegression_returns_actual_vs_strategy.PNG?raw=true)
+![[returns_actual_vs_strategy_LogisticRegression]](https://github.com/Nithy29/Algorithmic-Trading/blob/main/Images/LogisticRegression_returns_actual_vs_strategy.png?raw=true)
 
 - Classification Report
 
-![[Classification Report]](Images/LogisticRegression_classification_report.PNG?raw=true)
+![[Classification Report]](Images/LogisticRegression_classification_report.png?raw=true)
 
 ### Summary of findings
 
