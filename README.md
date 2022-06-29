@@ -15,7 +15,10 @@ The speed of these transactions gave my firm a competitive advantage early on. B
 * Trained a new machine learning model and compare its performance to that of a baseline model.
 
 ---
+#### The Code file
+[Code File](https://github.com/Nithy29/Algorithmic-Trading/blob/main/Starter_Code/machine_learning_trading_bot.ipynb)
 
+----
 #### Establish a baseline performance and tune the baseline algorithm 
 
 * Baseline cumulative return plot that shows the actual returns vs. the strategy returns
